@@ -24,7 +24,8 @@ export const UseEffect = () => {
       <h1>Use Effect</h1>
       <p>
         Use Effect Hook allow you to perform sid effect in your function
-        component
+        component. which commonly use for async tasks like data fetching ,
+        subscription , events DOM updates
       </p>
       <hr />
       <ul>
